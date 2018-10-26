@@ -6,7 +6,9 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc98c1fd-5c0c-4f56-9857-07c6c389c6f4" name="Default Changelist" comment="" />
+    <list default="true" id="cc98c1fd-5c0c-4f56-9857-07c6c389c6f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +35,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1271" />
+          <entry key="py" value="1295" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1271" />
+          <entry key="Python" value="1295" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="random" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.35191637">
@@ -50,10 +55,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/random.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+                <state relative-caret-position="90">
+                  <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
                   <folding>
-                    <marker date="1540547536607" expanded="true" signature="20:25" ph="..." />
+                    <marker date="1540547926655" expanded="true" signature="20:25" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -66,10 +71,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_hello_world.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="720">
-                  <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+                <state relative-caret-position="555">
+                  <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
                   <folding>
-                    <marker date="1540547790445" expanded="true" signature="64:1019" ph="..." />
+                    <element signature="e#0#29#0" expanded="true" />
+                    <marker date="1540547908573" expanded="true" signature="97:833" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -79,11 +85,14 @@
       </split-second>
     </splitter>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/random.py" />
         <option value="$PROJECT_DIR$/test_hello_world.py" />
+        <option value="$PROJECT_DIR$/random.py" />
       </list>
     </option>
   </component>
@@ -93,6 +102,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -113,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="split ver&#9;ACTION&#9;SplitVertically" />
+    <property name="SearchEverywhereHistoryKey" value="ref&#9;ACTION&#9;ReformatCode&#10;refor&#9;ACTION&#9;ReformatCode&#10;split ver&#9;ACTION&#9;SplitVertically" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,58 +214,57 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 49m 10s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 50m 35s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 51m 16s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 51m 34s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 51m 53s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 52m 16s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 52m 26s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 54m 12s.xml">
-      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 54m 33s.xml">
       <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 55m 04s.xml">
       <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 56m 32s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 57m 14s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 57m 20s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 57m 35s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 57m 46s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 57m 51s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 58m 28s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_hello_world_TestHello_world - 2018.10.26 at 10h 58m 46s.xml">
+      <configuration name="Unittests for test_hello_world.TestHello_world" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-418" y="-1440" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10047657" />
+      <window_info id="Favorites" sideWeight="0.5007299" side_tool="true" weight="0.10047657" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.10047657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49960285" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50039715" side_tool="true" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49960285" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.32962668" />
+      <window_info anchor="right" id="Run" order="3" visible="true" weight="0.32962668" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -264,20 +273,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <marker date="1540547536607" expanded="true" signature="20:25" ph="..." />
+            <marker date="1540547926655" expanded="true" signature="20:25" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <marker date="1540547790445" expanded="true" signature="64:1019" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1540547908573" expanded="true" signature="97:833" ph="..." />
           </folding>
         </state>
       </provider>
